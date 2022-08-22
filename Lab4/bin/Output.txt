@@ -1,0 +1,40 @@
+Print counter: 0 Breadth First [ 57.12 Dollar 23.44 Dollar 87.43 Dollar 18.36 Dollar 44.55 Dollar 68.99 Dollar 111.22 Dollar 11.0 Dollar 20.21 Dollar 36.18 Dollar 48.48 Dollar 77.77 Dollar 101.0 Dollar 543.21 Dollar 1.0 Dollar 21.0 Dollar 51.0 Dollar 345.67 Dollar 251.0 Dollar 151.0 Dollar ]
+-----------
+Print counter: 0 In Order [ 1.0 Dollar 11.0 Dollar 18.36 Dollar 20.21 Dollar 21.0 Dollar 23.44 Dollar 36.18 Dollar 44.55 Dollar 48.48 Dollar 51.0 Dollar 57.12 Dollar 68.99 Dollar 77.77 Dollar 87.43 Dollar 101.0 Dollar 111.22 Dollar 151.0 Dollar 251.0 Dollar 345.67 Dollar 543.21 Dollar ]
+-----------
+Print counter: 0 Pre Order [ 57.12 Dollar 23.44 Dollar 18.36 Dollar 11.0 Dollar 1.0 Dollar 20.21 Dollar 21.0 Dollar 44.55 Dollar 36.18 Dollar 48.48 Dollar 51.0 Dollar 87.43 Dollar 68.99 Dollar 77.77 Dollar 111.22 Dollar 101.0 Dollar 543.21 Dollar 345.67 Dollar 251.0 Dollar 151.0 Dollar ]
+-----------
+Print counter: 0 Post Order [ 1.0 Dollar 11.0 Dollar 21.0 Dollar 20.21 Dollar 18.36 Dollar 36.18 Dollar 51.0 Dollar 48.48 Dollar 44.55 Dollar 23.44 Dollar 77.77 Dollar 68.99 Dollar 101.0 Dollar 151.0 Dollar 251.0 Dollar 345.67 Dollar 543.21 Dollar 111.22 Dollar 87.43 Dollar 57.12 Dollar ]
+-----------
+Print counter: 1 Breadth First [ 19.35 Dollar 80.54 Dollar 345.67 Dollar ]
+-----------
+Print counter: 1 In Order [ 19.35 Dollar 80.54 Dollar 345.67 Dollar ]
+-----------
+Print counter: 1 Pre Order [ 19.35 Dollar 80.54 Dollar 345.67 Dollar ]
+-----------
+Print counter: 1 Post Order [ 345.67 Dollar 80.54 Dollar 19.35 Dollar ]
+-----------
+Print counter: 2 Breadth First [ 19.35 Dollar 80.54 Dollar 42.80 Dollar 345.67 Dollar ]
+-----------
+Print counter: 2 In Order [ 19.35 Dollar 42.80 Dollar 80.54 Dollar 345.67 Dollar ]
+-----------
+Print counter: 2 Pre Order [ 19.35 Dollar 80.54 Dollar 42.80 Dollar 345.67 Dollar ]
+-----------
+Print counter: 2 Post Order [ 42.80 Dollar 345.67 Dollar 80.54 Dollar 19.35 Dollar ]
+-----------
+Print counter: 3 Breadth First [ 19.35 Dollar 345.67 Dollar 42.80 Dollar 1234.98 Dollar ]
+-----------
+Print counter: 3 In Order [ 19.35 Dollar 42.80 Dollar 345.67 Dollar 1234.98 Dollar ]
+-----------
+Print counter: 3 Pre Order [ 19.35 Dollar 345.67 Dollar 42.80 Dollar 1234.98 Dollar ]
+-----------
+Print counter: 3 Post Order [ 42.80 Dollar 1234.98 Dollar 345.67 Dollar 19.35 Dollar ]
+-----------
+Print counter: 4 Breadth First [ 19.35 Dollar 345.67 Dollar 42.80 Dollar 1234.98 Dollar ]
+-----------
+Print counter: 4 In Order [ 19.35 Dollar 42.80 Dollar 345.67 Dollar 1234.98 Dollar ]
+-----------
+Print counter: 4 Pre Order [ 19.35 Dollar 345.67 Dollar 42.80 Dollar 1234.98 Dollar ]
+-----------
+Print counter: 4 Post Order [ 42.80 Dollar 1234.98 Dollar 345.67 Dollar 19.35 Dollar ]
+-----------
